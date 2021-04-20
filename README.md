@@ -1,5 +1,5 @@
 
-A Smart City Service Provider
+
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
